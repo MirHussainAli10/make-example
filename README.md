@@ -1,2 +1,2 @@
 # make-example
-# to check 
+# to check 1
